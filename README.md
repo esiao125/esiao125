@@ -2,7 +2,7 @@
 - 👀 I’m interested in artificial intelligence and software development
 - 👩‍🎓 I'm a student at the University of San Francisco, studying Computer Science and Mathematics
 - 🌱 I’m currently learning Python
-- 📫 How to reach me http://www.linkedin.com/in/erikaannesiao
+- 📫 How to reach me https://www.linkedin.com/in/erikaannesiao/
 - 😄 Pronouns: she/her
 
 <!---
