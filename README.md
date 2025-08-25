@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Erika
-- 👀 I’m interested in artificial intelligence and software development
-- 👩‍🎓 I'm a student at the University of San Francisco, studying Computer Science and Mathematics
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in web and software development
+- 👩‍🎓 I'm a student at Loyola Marymount University, studying Computer Science
+- 🌱 I’m currently learning data structures and web development
 - 📫 How to reach me https://www.linkedin.com/in/erikaannesiao/
 - 😄 Pronouns: she/her
 
