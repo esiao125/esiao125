@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Erika
 - 👀 I’m interested in web and software development
 - 👩‍🎓 I'm a student at Loyola Marymount University, studying Computer Science
-- 🌱 I’m currently learning data structures and web development
+- 🌱 I’m currently learning database interaction and computer systems
 - 📫 How to reach me https://www.linkedin.com/in/erikaannesiao/
 - 😄 Pronouns: she/her
 
